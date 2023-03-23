@@ -1,17 +1,17 @@
 .encabezado{
 
-    background-color: rgb(5, 12, 71);
+    background-color: rgb(1, 13, 123);
 }
 
 .button {
-    background-color: #0019d6; /* Green */
+    background-color: #001eff; /* Green */
     border: none;
-    color: white;
-    padding: 1px 2px;
+    color: rgb(0, 0, 0);
+    padding: 5px 8px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;  
+    font-size: 25px;  
 }
 
 .Center{
@@ -23,9 +23,9 @@
 }
 .parrafo {
 
-    background-color: rgb(38, 0, 255);
+    background-color: rgb(67, 36, 243);
     
-    color: rgb(252, 144, 4);
+    color: rgb(252, 235, 4);
     text-align: center;
     width: 1245px;
   height: 100px;
@@ -34,9 +34,9 @@
 
     .hast {
 
-        background-color: rgb(12, 0, 75);
+        background-color: rgb(20, 0, 117);
         
-        color: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
         text-align: right;
         width: 1245px;
       height: 100px;
@@ -44,9 +44,9 @@
         }
         .pie {
 
-            background-color: rgb(255, 179, 2);
+            background-color: rgb(255, 255, 2);
             
-            color: rgb(255, 255, 255);
+            color: rgb(0, 0, 0);
             text-align: right;
             width: 1245px;
           height: 100px;
